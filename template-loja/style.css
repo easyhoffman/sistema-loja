@@ -1,0 +1,86 @@
+.icones{
+    width: 20px;
+}
+
+h1 {
+    text-align:center;
+    font-family: lucida, monospace
+    
+}
+
+.direita{
+    text-align:right;
+    font-family: lucida, monospace
+    
+
+
+}
+
+
+.fotoInicial {
+    
+    height: 100%;
+    width: 100%;
+    object-fit: contain
+}
+
+.logo{
+    width: 180px;
+    display: inline-block;
+    float: left;
+    
+}
+
+.fundoPreto {
+    background-color: black;
+    padding: 5px;
+    display: inline;
+    margin-right: 5px;
+    text-align:center;
+    
+}
+
+h2 {
+    text-align:center;
+}
+
+.funcionariosCentro{
+    text-align:center;
+}
+
+table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 20px 0;
+}
+.rodape {
+    background-color: wheat;
+    display: block;
+    padding: 7px;
+    text-align: right;
+    font-family:'Courier New', Courier, monospace;
+    
+
+}
+
+
+.textoBranco {
+    color: white;
+    font-size: large;
+    
+}
+
+a+a {
+    margin-left: 50px;
+  }
+
+.formulario {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px brown;
+  border-radius: 20px;
+}
